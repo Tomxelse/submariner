@@ -919,6 +919,7 @@ i.sec:nth-of-type(14) {
   font-size: 0.8125em;
   /* 13px */
   letter-spacing: 0.02em;
+  font-weight: bold;
 }
 .content-lower .sub-num {
   font-size: 0.75em;
