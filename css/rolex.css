@@ -669,7 +669,7 @@ i.bez:nth-of-type(14) {
 .face:after {
   width: 3px;
   height: 3px;
-  background: #DC143C;
+  background: #000000;
   top: 281px;
   -webkit-transform: rotateZ(180deg);
           transform: rotateZ(180deg);
