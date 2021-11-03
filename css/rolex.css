@@ -114,7 +114,7 @@ Start main code
           transform: scaleY(-1);
   top: initial;
   bottom: 0;
-  border-bottom-color: #222828;
+  border-bottom-color: #DC143C;
 }
 
 /* Lug */
@@ -187,7 +187,7 @@ Start main code
   height: 75px;
   position: absolute;
   right: -30px;
-  background: #31383B;
+  background: #DC143C;
   top: 0;
   bottom: 0;
   margin: auto;
