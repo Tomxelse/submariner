@@ -1129,14 +1129,14 @@ i.sec:nth-of-type(14) {
   height: inherit;
   border-radius: inherit;
   background: #eee;
-  border: 5px solid #d0d0d0;
+  border: 5px solid #0000ff;
   box-shadow: inset 1px 1px 2px 0 #555, 0 -73px 1px -2px #fff, 0 48px 0 -2px #ddd, 0 -74px 0 -1px #999, 0 -74px 0 1px #ddd;
 }
 .hand-sec:before {
   height: 184px;
   width: 2px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#aaa), color-stop(30%, #0000ff), to(#0000ff));
-  background: linear-gradient(to bottom, #aaa 0%, #0000ff 30%, #ddd 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0000ff), color-stop(30%, #0000ff), to(#0000ff));
+  background: linear-gradient(to bottom, #aaa 0%, #0000ff 30%, #0000ff 100%);
   bottom: -44px;
   left: 7px;
 }
@@ -1161,7 +1161,7 @@ i.sec:nth-of-type(14) {
   height: 22px;
   border-radius: 50%;
   box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.4);
-  background: #d0d0d0;
+  background: #0000ff;
   /* Arm */
   /* Top of hand */
 }
@@ -1170,8 +1170,8 @@ i.sec:nth-of-type(14) {
   width: 16px;
   bottom: 28px;
   left: 3px;
-  background: #fff;
-  border: 3px solid #d0d0d0;
+  background: #0000ff;
+  border: 3px solid #0000ff;
   box-shadow: inset 1px 1px 2px 0 #999, 0 0 4px 1px rgba(0, 0, 0, 0.4);
 }
 .hand-min span {
@@ -1179,7 +1179,7 @@ i.sec:nth-of-type(14) {
   width: 0;
   border-right: 8px solid transparent;
   border-left: 8px solid transparent;
-  border-bottom: 26px solid #d0d0d0;
+  border-bottom: 26px solid #0000ff;
   position: absolute;
   bottom: 114px;
   left: 3px;
@@ -1190,7 +1190,7 @@ i.sec:nth-of-type(14) {
   width: 0;
   border-right: 8px solid transparent;
   border-left: 8px solid transparent;
-  border-top: 16px solid #d0d0d0;
+  border-top: 16px solid #0000ff;
   position: absolute;
   bottom: -128px;
   left: -8px;
@@ -1213,11 +1213,11 @@ i.sec:nth-of-type(14) {
   bottom: 24px;
   left: 6px;
   background: #fff;
-  border: 3px solid #d0d0d0;
+  border: 3px solid #0000ff;
   box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.4), 0 -10px 7px 0 rgba(0, 0, 0, 0.4);
 }
 .hand-hour:after {
-  background: #d0d0d0;
+  background: #0000ff;
   height: inherit;
   width: inherit;
   border-radius: inherit;
@@ -1227,7 +1227,7 @@ i.sec:nth-of-type(14) {
   height: 32px;
   background: #fff;
   border-radius: 50%;
-  border: 3px solid #d0d0d0;
+  border: 3px solid #0000ff;
   bottom: 48px;
   left: -3px;
   position: absolute;
@@ -1238,7 +1238,7 @@ i.sec:nth-of-type(14) {
 .hand-hour span:before {
   border-right: 7px solid transparent;
   border-left: 7px solid transparent;
-  border-bottom: 22px solid #d0d0d0;
+  border-bottom: 22px solid #0000ff;
   position: absolute;
   bottom: 27px;
   left: 6px;
@@ -1246,7 +1246,7 @@ i.sec:nth-of-type(14) {
 .hand-hour span:after {
   border-right: 3px solid transparent;
   border-left: 3px solid transparent;
-  border-bottom: 10px solid #fff;
+  border-bottom: 10px solid #0000ff;
   position: absolute;
   bottom: 30px;
   left: 10px;
@@ -1255,7 +1255,7 @@ i.sec:nth-of-type(14) {
   height: 16px;
   width: 3px;
   bottom: -14px;
-  background: #d0d0d0;
+  background: #0000ff;
 }
 .hand-hour span .hour-decor:after, .hand-hour span .hour-decor:before {
   width: inherit;
